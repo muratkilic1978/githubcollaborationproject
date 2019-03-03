@@ -11,5 +11,5 @@ This is a sample readme file for my Github Collaboration Project. We're learning
 2. Orange
 3. Kiwi
 
-..* This is unordered list
-..* Another unordered list
++ This is unordered list
++ Another unordered list
